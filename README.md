@@ -67,7 +67,6 @@ HYAIPE is an independent creative technology practice exploring the space betwee
 [![X](https://img.shields.io/badge/X_%2F_TWITTER-111111?style=for-the-badge&logo=x&logoColor=white)](https://x.com/HYAIPE)
 [![Email](https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hyaipe.io@gmail.com)
 
-<br />
 
 ### **STAY CURIOUS. BUILD IN PUBLIC. KEEP EXPERIMENTING.**
 
