@@ -24,13 +24,11 @@ The **Y** represents the intersection of **human creativity and artificial intel
 
 <div align="center">
 
-## ABOUT HYAIPE
+## ABOUT
 
 HYAIPE is an independent creative technology practice exploring the space between **art and visual design**, **artificial intelligence**, **open-source software**, **internet culture**, **creator tools**, and **Bitcoin and decentralized technology**.
 
 </div>
-
----
 
 <div align="center">
 
