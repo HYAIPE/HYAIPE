@@ -2,7 +2,7 @@
 
 # HYAIPE
 
-### **WORKING PIXEL BY PIXEL.**
+### **A.I. PROMPT ENGINEERING BUILT ON HYPE**
 
 **Creative technology, open-source software, internet experiments, and tools for people who build.**
 
@@ -37,40 +37,6 @@ The goal is simple:
 
 > **Build useful, interesting, and culturally relevant tools for the internet.**
 
----
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-## 🧠 WHAT I DO
-
-- Build experimental web products
-- Design Chrome extensions
-- Create AI-powered workflows
-- Explore autonomous agents
-- Develop creator-focused tools
-- Prototype internet-native ideas
-- Publish open-source experiments
-- Design visual systems and interfaces
-
-</td>
-<td width="50%" valign="top">
-
-## 🔭 CURRENT FOCUS
-
-- AI agents and automation
-- Open-source creative software
-- Browser extensions
-- Creator infrastructure
-- Bitcoin-native applications
-- Human-centered product design
-- Community-driven experiments
-- Tools that reduce friction
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -176,17 +142,17 @@ Contributions, feedback, forks, issues, and new ideas are welcome.
 
 <div align="center">
 
-**BUILDING AT THE INTERSECTION OF ART, SOFTWARE, AI, AND THE INTERNET.**
+**BUILDING AT THE INTERSECTION OF ART, BLOCKCHAIN, AI, AND THE INTERNET.**
 
 <br />
 
-[![Website](https://img.shields.io/badge/WEBSITE-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_WEBSITE_URL)
-[![X](https://img.shields.io/badge/X_%2F_TWITTER-111111?style=for-the-badge&logo=x&logoColor=white)](YOUR_X_URL)
+[![Website](https://img.shields.io/badge/WEBSITE-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hyaipe.com/)
+[![X](https://img.shields.io/badge/X_%2F_TWITTER-111111?style=for-the-badge&logo=x&logoColor=white)](https://x.com/HYAIPE)
 [![Email](https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hyaipe.io@gmail.com)
 
 <br />
 <br />
 
-### **STAY CURIOUS. BUILD IN PUBLIC. KEEP WORKING PIXEL BY PIXEL.**
+### **STAY CURIOUS. BUILD IN PUBLIC. KEEP EXPERIMENTING.**
 
 </div>
