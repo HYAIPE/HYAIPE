@@ -2,171 +2,191 @@
 
 # HYAIPE
 
-### BUILDING AT THE INTERSECTION OF
+### **WORKING PIXEL BY PIXEL.**
 
-### ART × DESIGN × AI × OPEN SOURCE
+**Creative technology, open-source software, internet experiments, and tools for people who build.**
 
-**Working Pixel by Pixel.**
+<br />
 
-HYAIPE is an independent creative technology studio building experimental software, open-source tools, browser extensions, AI workflows, digital products, and internet-native experiences.
+![AI](https://img.shields.io/badge/AI-CREATIVE_SYSTEMS-111111?style=for-the-badge)
+![Open Source](https://img.shields.io/badge/OPEN_SOURCE-BUILDER-111111?style=for-the-badge)
+![Design](https://img.shields.io/badge/DESIGN-INTERNET_NATIVE-111111?style=for-the-badge)
+![Bitcoin](https://img.shields.io/badge/BITCOIN-EXPERIMENTS-111111?style=for-the-badge)
+
+<br />
+
+`HYAIPE` is pronounced **“hype.”**  
+The **Y** represents the intersection of **human creativity and artificial intelligence.**
 
 </div>
 
 ---
 
-## ABOUT
+## 👋 ABOUT HYAIPE
 
-HYAIPE explores how artificial intelligence and emerging technologies can help people create, automate, experiment, and bring ideas to life.
+HYAIPE is an independent creative technology practice exploring the space between:
 
-Our work moves between:
+- 🎨 **Art and visual design**
+- 🤖 **Artificial intelligence**
+- 🧩 **Open-source software**
+- 🌐 **Internet culture**
+- 🛠️ **Creator tools**
+- ₿ **Bitcoin and decentralized technology**
 
-* Artificial intelligence
-* Open-source software
-* Creative tools
-* Browser extensions
-* Product experiments
-* Internet culture
-* Digital art
-* Bitcoin and decentralized technology
+The goal is simple:
 
-Every project begins with a simple question:
-
-> **What can we build that should exist on the internet?**
+> **Build useful, interesting, and culturally relevant tools for the internet.**
 
 ---
 
-## WHAT WE BUILD
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### OPEN-SOURCE TOOLS
+## 🧠 WHAT I DO
 
-Small, focused tools designed to solve real problems without unnecessary complexity.
+- Build experimental web products
+- Design Chrome extensions
+- Create AI-powered workflows
+- Explore autonomous agents
+- Develop creator-focused tools
+- Prototype internet-native ideas
+- Publish open-source experiments
+- Design visual systems and interfaces
 
-### BROWSER EXTENSIONS
+</td>
+<td width="50%" valign="top">
 
-Extensions that improve existing platforms, automate repetitive tasks, and make the internet more useful.
+## 🔭 CURRENT FOCUS
 
-### AI EXPERIMENTS
+- AI agents and automation
+- Open-source creative software
+- Browser extensions
+- Creator infrastructure
+- Bitcoin-native applications
+- Human-centered product design
+- Community-driven experiments
+- Tools that reduce friction
 
-Creative workflows, agents, interfaces, and prototypes exploring new ways humans can work with artificial intelligence.
-
-### DIGITAL PRODUCTS
-
-Applications and experiences built around functionality, culture, design, and experimentation.
-
-### CREATIVE TECHNOLOGY
-
-Projects combining visual design, software development, storytelling, automation, and emerging technology.
-
----
-
-## SELECTED PROJECTS
-
-### Auto Translator for Discord
-
-A Chrome extension that automatically translates Discord messages into English as they appear.
-
-Real-time translation.
-No refreshing.
-No copying and pasting.
-
-### Shift Reset
-
-A health and recovery companion designed for people with physically demanding jobs.
-
-Guided mobility, stretching, posture correction, recovery, and habit-building.
-
-### Project Goose
-
-An open-source creative ecosystem exploring how AI agents can help artists, designers, developers, filmmakers, musicians, writers, and independent creators build.
-
-### Goose for Creators
-
-A creator-focused initiative supporting the development of open-source tools, extensions, workflows, experiments, and research using AI agents.
-
-### HYAIPE Experiments
-
-A growing collection of prototypes, micro-tools, extensions, interfaces, creative coding projects, and internet experiments.
+</td>
+</tr>
+</table>
 
 ---
 
-## DESIGN PHILOSOPHY
-
-```text
-MINIMAL.
-INTERNET-NATIVE.
-FUNCTIONAL.
-EDITORIAL.
-TECHNICAL.
-BOLD.
-```
-
-We believe software should be useful before it is complicated.
-
-We value:
-
-* Clear ideas
-* Strong visual systems
-* Open experimentation
-* Useful automation
-* Accessible technology
-* Creative independence
-* Building in public
-
----
-
-## CURRENTLY EXPLORING
-
-```text
-AI AGENTS
-CREATIVE AUTOMATION
-OPEN-SOURCE ECOSYSTEMS
-CHROME EXTENSIONS
-LOCAL AI
-BITCOIN
-CREATOR TOOLS
-EXPERIMENTAL INTERFACES
-```
-
----
-
-## OPEN SOURCE
-
-HYAIPE believes open-source software creates opportunities for people to learn, remix, contribute, and build upon one another's work.
-
-Projects may begin as experiments, but the goal is always to document what we learn and make useful work available to others.
-
-Contributions, feedback, ideas, and collaborations are welcome.
-
----
-
-## CONTRIBUTE
-
-Found something that could be improved?
-
-1. Open an issue
-2. Suggest a feature
-3. Submit a pull request
-4. Fork a project
-5. Build something new from it
-
-Please review the contribution guidelines inside each repository before submitting changes.
-
----
-
-## CONNECT
-
-**Website:** `YOUR-WEBSITE-HERE`
-**X / Twitter:** `YOUR-X-HANDLE-HERE`
-**Email:** hyaipe.io@gmail.com
-
----
+## 🧰 TOOLBOX
 
 <div align="center">
 
-### HYAIPE
+### DEVELOPMENT
 
-**ART. DESIGN. TECHNOLOGY. CULTURE.**
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript)
+![React](https://img.shields.io/badge/React-111111?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs)
+![Node.js](https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=nodedotjs)
+![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python)
+![HTML5](https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-111111?style=flat-square&logo=css3)
 
-Working Pixel by Pixel.
+### CREATIVE + PRODUCT
+
+![Figma](https://img.shields.io/badge/Figma-111111?style=flat-square&logo=figma)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-111111?style=flat-square&logo=adobephotoshop)
+![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-111111?style=flat-square&logo=visualstudiocode)
+![Chrome](https://img.shields.io/badge/Chrome_Extensions-111111?style=flat-square&logo=googlechrome)
+
+</div>
+
+---
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## 🧩 BUILD PHILOSOPHY
+
+**MINIMAL.**  
+Remove unnecessary friction.
+
+**FUNCTIONAL.**  
+The product should solve a real problem.
+
+**INTERNET-NATIVE.**  
+Build for how people actually use the web.
+
+**OPEN.**  
+Share knowledge, experiments, and useful code.
+
+</td>
+<td width="50%" valign="top">
+
+## ⚡ DESIGN PHILOSOPHY
+
+**BOLD.**  
+Strong ideas deserve strong presentation.
+
+**EDITORIAL.**  
+Hierarchy and typography matter.
+
+**TECHNICAL.**  
+The system should feel intentional.
+
+**HUMAN.**  
+Technology should help people create, learn, and move faster.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧪 REPOSITORY GUIDE
+
+| Icon | Category | What You Will Find |
+|:---:|---|---|
+| 🧩 | **Extensions** | Browser tools that improve everyday workflows |
+| 🤖 | **AI** | Agents, automations, prompts, and intelligent systems |
+| 🎨 | **Creative Code** | Generative art, visual experiments, and design tools |
+| 🌐 | **Web** | Websites, interfaces, prototypes, and internet products |
+| ₿ | **Bitcoin** | Ordinals, inscriptions, data experiments, and open research |
+| 🧰 | **Utilities** | Small tools built to solve specific problems |
+
+---
+
+## 🌍 OPEN-SOURCE MINDSET
+
+HYAIPE treats open source as more than a licensing model.
+
+It is a way to:
+
+- 📚 Share what was learned
+- 🧱 Build on top of existing ideas
+- 🤝 Collaborate with curious people
+- 🔬 Turn experiments into public knowledge
+- 🚀 Help more people create with technology
+
+Contributions, feedback, forks, issues, and new ideas are welcome.
+
+---
+
+## 📡 CONNECT
+
+<div align="center">
+
+**BUILDING AT THE INTERSECTION OF ART, SOFTWARE, AI, AND THE INTERNET.**
+
+<br />
+
+[![Website](https://img.shields.io/badge/WEBSITE-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_WEBSITE_URL)
+[![X](https://img.shields.io/badge/X_%2F_TWITTER-111111?style=for-the-badge&logo=x&logoColor=white)](YOUR_X_URL)
+[![Email](https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hyaipe.io@gmail.com)
+
+<br />
+<br />
+
+### **STAY CURIOUS. BUILD IN PUBLIC. KEEP WORKING PIXEL BY PIXEL.**
 
 </div>
