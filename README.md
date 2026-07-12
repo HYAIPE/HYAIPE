@@ -55,26 +55,9 @@ HYAIPE is an independent creative technology practice exploring the space betwee
 </div>
 
 ---
-
-## 🌍 OPEN-SOURCE MINDSET
-
-HYAIPE treats open source as more than a licensing model.
-
-It is a way to:
-
-- 📚 Share what was learned
-- 🧱 Build on top of existing ideas
-- 🤝 Collaborate with curious people
-- 🔬 Turn experiments into public knowledge
-- 🚀 Help more people create with technology
-
-Contributions, feedback, forks, issues, and new ideas are welcome.
-
----
-
-## 📡 CONNECT
-
 <div align="center">
+  
+## 📡 CONNECT
 
 **BUILDING AT THE INTERSECTION OF ART, BLOCKCHAIN, AI, AND THE INTERNET.**
 
@@ -84,7 +67,6 @@ Contributions, feedback, forks, issues, and new ideas are welcome.
 [![X](https://img.shields.io/badge/X_%2F_TWITTER-111111?style=for-the-badge&logo=x&logoColor=white)](https://x.com/HYAIPE)
 [![Email](https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hyaipe.io@gmail.com)
 
-<br />
 <br />
 
 ### **STAY CURIOUS. BUILD IN PUBLIC. KEEP EXPERIMENTING.**
