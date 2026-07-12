@@ -68,7 +68,7 @@ The goal is simple:
 
 ---
 
-<table>
+<table align="center">
 <tr>
 <td width="50%" valign="top">
 
