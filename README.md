@@ -34,8 +34,6 @@ HYAIPE is an independent creative technology practice exploring the space betwee
 
 <div align="center">
 
-## 🧰 TOOLBOX
-
 ### DEVELOPMENT
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript)
