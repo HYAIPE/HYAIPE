@@ -59,8 +59,6 @@ HYAIPE is an independent creative technology practice exploring the space betwee
   
 ## 📡 CONNECT
 
-**BUILDING AT THE INTERSECTION OF ART, BLOCKCHAIN, AI, AND THE INTERNET.**
-
 <br />
 
 [![Website](https://img.shields.io/badge/WEBSITE-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hyaipe.com/)
