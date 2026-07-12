@@ -32,9 +32,9 @@ HYAIPE is an independent creative technology practice exploring the space betwee
 
 ---
 
-## 🧰 TOOLBOX
-
 <div align="center">
+
+## 🧰 TOOLBOX
 
 ### DEVELOPMENT
 
@@ -101,6 +101,8 @@ Technology should help people create, learn, and move faster.
 
 ---
 
+<div align="center">
+
 ## 🧪 REPOSITORY GUIDE
 
 | Icon | Category | What You Will Find |
@@ -111,6 +113,8 @@ Technology should help people create, learn, and move faster.
 | 🌐 | **Web** | Websites, interfaces, prototypes, and internet products |
 | ₿ | **Bitcoin** | Ordinals, inscriptions, data experiments, and open research |
 | 🧰 | **Utilities** | Small tools built to solve specific problems |
+
+</div>
 
 ---
 
